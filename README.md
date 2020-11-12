@@ -19,3 +19,6 @@ A basic example of CNN applied to a image classification problem (historical dig
 Sampling the most likely words from a topic using Latent Dirichlet Allocation and Gibbs Sampling. Implementations of LDA model and Gibbs sampling are provided in the notebook.
 # Metropolis-Hastings algorithm.ipynb
 Number of coloured graph vertices approximation via Law of Large Numbers and Metropolis-Hastings algorithm. Implementation of Metropolis-Hastings algorithm is provided in the notebook.
+# Sampling_and_Random_partition.ipynb
+Implementation of a number of algorithms to sample from a distribution (including Box-Muller algorithm) and estimation of an expected number of subsets in the case of random partition of a set.
+
