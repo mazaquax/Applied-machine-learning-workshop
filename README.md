@@ -1,7 +1,7 @@
-# Здесь лежат файлы .ipynb с решением заданий на разные темы: машинное обучение, аналитика, теория вероятностей, генеративные алгоритмы, методы Монте-Карло.
-Here I describe some projects on machine learning and adjacent fields of study
+# Here are notebooks containing solutions of problems from different topics: Machine Learning (NLP, VAE, Image classification), Analytics, Sampling Algorithms and MCMC, Probability Theory
+Here I describe some projects
 
-Опишу несколько проектов по машинному обучению
+Опишу несколько проектов
 # Word2Vec.ipynb
 The problem is to learn to predict whether a movie review is positive or negative basing on IMDB reviews dataset. Text preprocessing and lemmatization are in the notebook. Text embeddings are made with Word2Vec and SVM is used for learning classification. F-1 score equals 0.895. 
 TF-IDF gives better score, but Word2Vec allows to learn faster.
