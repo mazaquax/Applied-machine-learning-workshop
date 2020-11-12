@@ -1,4 +1,4 @@
-# Here are notebooks containing solutions of problems from different topics: Machine Learning (NLP, VAE, Image classification), Analytics, Sampling Algorithms and MCMC, Probability Theory
+# Here are notebooks containing solutions of problems from different topics: Machine Learning (NLP, VAE, Image classification), Analytics, Sampling Algorithms and MCMC
 Here I describe some projects
 
 Опишу несколько проектов
