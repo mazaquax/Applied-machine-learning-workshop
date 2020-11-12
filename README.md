@@ -17,3 +17,5 @@ A basic example of CNN applied to a image classification problem (historical dig
 Базовый пример работы свёрточных нейронных сетей на изображениях из датасета (historical digit dataset Arkiv Digital Sweden, https://ardisdataset.github.io/ARDIS/). Рукописные цифры, но НЕ MNIST.
 # LDA_and_Gibbs_Sampling.ipynb
 Sampling the most likely words from a topic using Latent Dirichlet Allocation and Gibbs Sampling. Implementations of LDA model and Gibbs sampling are provided in the notebook.
+# Metropolis-Hastings algorithm.ipynb
+Number of coloured graph vertices approximation via Law of Large Numbers and Metropolis-Hastings algorithm. Implementation of Metropolis-Hastings algorithm is provided in the notebook.
