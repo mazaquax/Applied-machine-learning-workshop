@@ -3,7 +3,7 @@ Here I describe some projects
 
 Опишу несколько проектов
 # Word2Vec.ipynb
-The problem is to learn to predict whether a movie review is positive or negative basing on IMDB reviews dataset. Text preprocessing and lemmatization are in the notebook. Text embeddings are made with Word2Vec and SVM is used for learning classification. F-1 score equals 0.895. 
+The problem is to learn to predict whether a movie review is positive or negative basing on IMDB reviews dataset. Text preprocessing and lemmatization are in the notebook. Text embeddings are made with Word2Vec and SVM is used for training classification. F-1 score equals 0.895. Comparison with a pre-trained model for wor2vec embeddings showed that in this case it is better to train the embeddings on a given dateset.
 TF-IDF gives better score, but Word2Vec allows to learn faster.
 
 На базе датасета комментариев IMDB необходимо научиться предсказывать положительный комментарий или нет. В ноутбуке производится предобработка и лемматизация текстов с дальнейшим применением Word2Vec для векторного представления. Далее для классификации используется метод опорных векторов. Итоговый f1-score на тесте - 0.895.
